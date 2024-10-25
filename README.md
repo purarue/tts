@@ -29,12 +29,12 @@ After installing [`curl`](https://github.com/curl/curl) and [`jq`](https://stedo
 
 Download the `tts` script somewhere onto your `$PATH`
 
-`wget -P ~/.local/bin 'https://raw.githubusercontent.com/seanbreckenridge/tts/master/tts' && chmod +x ~/.local/bin/tts`
+`wget -P ~/.local/bin 'https://raw.githubusercontent.com/purarue/tts/master/tts' && chmod +x ~/.local/bin/tts`
 
 Could also use [`basher`](https://github.com/basherpm/basher):
 
 ```bash
-basher install seanbreckenridge/tts
+basher install purarue/tts
 ```
 
 ## Examples
