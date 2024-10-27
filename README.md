@@ -51,7 +51,7 @@ tts -v Emma 'what?'  # use a different voice
 echo 'Does this work? NO? .OK.' | tts -d /tmp/sound.mpeg && plaympeg /tmp/sound.mpeg
 ```
 
-Audio: <https://sean.fish/p/sound.mpeg>
+Audio: <https://purarue.xyz/p/sound.mpeg>
 
 ## Notes
 
